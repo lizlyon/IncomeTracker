@@ -1,5 +1,6 @@
 # IncomeTracker
-## 458 Final Project
+lik here
+## 458 Final Project 
 * Student: Liz Lyon
 * Email: elyon@chapman.edu
 * Course: CPSC458
